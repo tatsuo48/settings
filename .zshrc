@@ -14,9 +14,9 @@ alias zshconfig="vi ~/.zshrc"
 
 # AWS CREDENTIAL
 # mwed.jp
-export AWS_ACCESS_KEY_ID='XXXXXXXXXX'
-export AWS_SECRET_ACCESS_KEY='XXXXXXXXXX'
-export AWS_REGION=ap-northeast-1
+#export AWS_ACCESS_KEY_ID='XXXXXXXXXX'
+#export AWS_SECRET_ACCESS_KEY='XXXXXXXXXX'
+#export AWS_REGION=ap-northeast-1
 
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
