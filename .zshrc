@@ -21,6 +21,10 @@ export AWS_REGION=ap-northeast-1
 # If you come from bash you might have to change your $PATH.
 export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+# go setting
+export GOPATH=$HOME/go
+export PATH="$GOPATH/bin:$PATH"
+
 # rbenv settings
 export PATH="$HOME/.rbenv/bin:$PATH" 
 eval "$(rbenv init - zsh)"
