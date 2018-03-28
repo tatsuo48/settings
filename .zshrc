@@ -11,7 +11,6 @@ alias ber='bundle exec rake'
 alias be='bundle exec'
 alias ll='ls -al'
 alias zshconfig="vi ~/.zshrc"
-alias delete_untagged_docker="docker rmi $(docker images | grep '^<none>' | awk '{print $3}')"
 
 # AWS CREDENTIAL
 # mwed.jp
